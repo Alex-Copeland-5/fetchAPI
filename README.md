@@ -1,3 +1,2 @@
-# fetchAPI
-
-API in CIS 376
+# Fetch API
+API For CIS 376
